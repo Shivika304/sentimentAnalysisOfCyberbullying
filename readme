@@ -1,0 +1,18 @@
+A machine learning project that detects cyberbullying in social media text.
+It supports both binary classification (Bullying / Not Bullying) and multi-class classification (age, gender, ethnicity, religion, other).
+
+🔧 Tech Stack
+	•	Python
+	•	Scikit-learn (Logistic Regression)
+	•	TF-IDF Vectorization
+	•	Pandas, NumPy
+	•	Streamlit (web app)
+	•	Joblib (model storage)
+	•	Virtual Environment (venv)
+
+✨ Features
+	•	Text preprocessing pipeline
+	•	Binary & multi-class ML models
+	•	Real-time Streamlit interface
+	•	Balanced training for better accuracy
+	•	Uses Kaggle Cyberbullying dataset
